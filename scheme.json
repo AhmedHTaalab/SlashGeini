@@ -1,0 +1,7 @@
+{ "grade": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5,
+      "description": "A grade to evaluate the review, with 1 being the lowest and 5 being the highest"
+    }
+ }
